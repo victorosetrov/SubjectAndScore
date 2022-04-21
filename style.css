@@ -1,0 +1,23 @@
+body {
+  text-align: plain;
+  background-color: #333;
+  font-family: Courier New, monospace;
+  color: #fff;
+}
+
+h1 {
+  color: greenyellow;
+}
+
+p {
+  color: orange;
+}
+
+
+.container {
+  display: flexbox;
+  width: 50%;
+  position: initial;
+  justify-content: space-around;
+  margin: auto;
+}
